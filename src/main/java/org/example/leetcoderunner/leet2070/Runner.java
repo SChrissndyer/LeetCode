@@ -1,5 +1,4 @@
 package org.example.leetcoderunner.leet2070;
-import org.example.leetcoderunner.leet2070.Solution;
 
 import java.util.Arrays;
 
