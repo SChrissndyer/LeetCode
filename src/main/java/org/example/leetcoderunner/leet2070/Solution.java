@@ -1,4 +1,10 @@
-class Solution {
+package org.example.leetcoderunner.leet2070;
+
+import java.util.Arrays;
+import java.util.Map;
+import java.util.TreeMap;
+
+public class Solution {
     public int[] maximumBeauty(int[][] items, int[] queries) {
         // take the items and sort them from item one and two and check the price if their not the same price and then
         // and then checks the beauty and make them sorted in decending order.
