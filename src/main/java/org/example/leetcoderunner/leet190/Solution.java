@@ -1,8 +1,5 @@
 package org.example.leetcoderunner.leet190;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Solution {
     // you need treat n as an unsigned value
     public int reverseBits(int n) {
